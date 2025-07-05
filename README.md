@@ -76,6 +76,24 @@ npm run build
 
 The built files will be in the `dist` directory.
 
+### Deployment
+
+#### Option 1: Automatic Deployment (Recommended)
+The project is set up with GitHub Actions for automatic deployment to GitHub Pages. Every push to the `master` branch will automatically build and deploy the site.
+
+#### Option 2: Manual Deployment
+To manually deploy to GitHub Pages:
+
+```bash
+npm run deploy
+```
+
+#### Option 3: Deploy to Other Platforms
+You can deploy the `dist` folder to any static hosting service like:
+- Netlify: Drag and drop the `dist` folder
+- Vercel: Connect your GitHub repository
+- Surge.sh: `surge dist/`
+
 ## 🎨 Fonts
 
 This project uses Discord's official fonts:

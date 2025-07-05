@@ -125,7 +125,9 @@ This project is for educational purposes only. Discord is a trademark of Discord
 
 ## 🔗 Live Demo
 
-[Add your live demo link here]
+**[🚀 View Live Demo](https://nithinregidi.github.io/DiscordClone/)**
+
+> Your Discord Clone is now live on GitHub Pages!
 
 ## 📈 Project Status
 
